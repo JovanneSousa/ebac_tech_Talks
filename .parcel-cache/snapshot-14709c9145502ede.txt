@@ -1,4 +1,4 @@
-4460
+4463
 71C:\dev\ebac\ebac_tech_Talks\node_modules\semver\functions\prerelease.js133882011222001678 0
 85C:\dev\ebac\ebac_tech_Talks\node_modules\posthtml\node_modules\entities\lib\decode.js133882011220553506 0
 68C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\transformer-svg\lib133882011225190325 1
@@ -34,7 +34,7 @@
 76C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\utils\src\parseCSSImport.js133882011228156839 0
 45C:\dev\ebac\ebac_tech_Talks\sharp.config.json133882010543231179 0
 60C:\dev\ebac\ebac_tech_Talks\node_modules\fill-range\index.js133882011214741803 0
-38C:\dev\ebac\ebac_tech_Talks\src\styles133882020048784559 1
+38C:\dev\ebac\ebac_tech_Talks\src\styles133882034510647433 1
 40C:\dev\ebac\ebac_tech_Talks\package.json133882012228790091 0
 38C:\dev\ebac\ebac_tech_Talks\.gitignore133882010543082964 0
 63C:\dev\ebac\ebac_tech_Talks\node_modules\react-refresh\babel.js133882011218975879 0
@@ -43,7 +43,7 @@
 80C:\dev\ebac\ebac_tech_Talks\node_modules\htmlparser2\lib\WritableStream.d.ts.map133882011221799457 0
 86C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\packager-js\lib\GlobalOutputFormat.js133882011225080141 0
 72C:\dev\ebac\ebac_tech_Talks\node_modules\source-map-js\lib\quick-sort.js133882011219562980 0
-32C:\dev\ebac\ebac_tech_Talks\dist133882031298386488 1
+32C:\dev\ebac\ebac_tech_Talks\dist133882038298432340 1
 94C:\dev\ebac\ebac_tech_Talks\node_modules\@swc\helpers\cjs\_object_without_properties_loose.cjs133882011223005693 0
 65C:\dev\ebac\ebac_tech_Talks\node_modules\dom-serializer\README.md133882011220939059 0
 71C:\dev\ebac\ebac_tech_Talks\node_modules\lmdb\bin\download-prebuilds.js133882011227354508 0
@@ -59,7 +59,15 @@
 61C:\dev\ebac\ebac_tech_Talks\node_modules\posthtml-render\dist133882011219971750 1
 64C:\dev\ebac\ebac_tech_Talks\node_modules\simple-swizzle\index.js133882011219542778 0
 54C:\dev\ebac\ebac_tech_Talks\node_modules\source-map-js133882011221000851 1
-48C:\dev\ebac\ebac_tech_Talks\node_modules\globals133882011220087066 1
+60C:\dev\ebac\ebac_tech_Talks\node_modules\sharp\lib\resize.js133882011222123220 0
+72C:\dev\ebac\ebac_tech_Talks\node_modules\lightningcss\node\index.js.flow133882011220553506 0
+57C:\dev\ebac\ebac_tech_Talks\node_modules\readdirp\LICENSE133882011214524926 0
+65C:\dev\ebac\ebac_tech_Talks\node_modules\weak-lru-cache\README.md133882011220500542 0
+72C:\dev\ebac\ebac_tech_Talks\node_modules\caniuse-lite\data\regions\DO.js133882011230324197 0
+72C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\workers\src\cpuCount.js133882011226055988 0
+65C:\dev\ebac\ebac_tech_Talks\node_modules\safe-buffer\package.json133882011217859764 0
+78C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\core\test\Environment.test.js133882011228672867 0
+65C:\dev\ebac\ebac_tech_Talks\src\styles\components\_infos-bar.scss133882048089361659 0
 40C:\dev\ebac\ebac_tech_Talks\node_modules133882011247195154 1
 112C:\dev\ebac\ebac_tech_Talks\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages.cmd133882011243475851 0
 76C:\dev\ebac\ebac_tech_Talks\node_modules\domelementtype\lib\esm\package.json133882011219023696 0
@@ -74,15 +82,10 @@
 51C:\dev\ebac\ebac_tech_Talks\src\images\frontend.png133882010543332373 0
 72C:\dev\ebac\ebac_tech_Talks\node_modules\caniuse-lite\data\regions\IE.js133882011232824372 0
 61C:\dev\ebac\ebac_tech_Talks\node_modules\posthtml-parser\dist133882011220212417 1
-42C:\dev\ebac\ebac_tech_Talks\src\index.html133882022381972671 0
+42C:\dev\ebac\ebac_tech_Talks\src\index.html133882039050061556 0
 63C:\dev\ebac\ebac_tech_Talks\node_modules\picomatch\lib\parse.js133882011218975879 0
 90C:\dev\ebac\ebac_tech_Talks\node_modules\@swc\helpers\src\_is_native_reflect_construct.mjs133882011232983366 0
 72C:\dev\ebac\ebac_tech_Talks\node_modules\msgpackr\dist\index-no-eval.cjs133882011219718515 0
-70C:\dev\ebac\ebac_tech_Talks\node_modules\domutils\lib\stringify.js.map133882011222379685 0
-49C:\dev\ebac\ebac_tech_Talks\node_modules\get-port133882011219645615 1
-76C:\dev\ebac\ebac_tech_Talks\node_modules\lmdb\dependencies\lz4\lib\lz4file.c133882011222226770 0
-63C:\dev\ebac\ebac_tech_Talks\node_modules\parent-module\index.js133882011219000105 0
-92C:\dev\ebac\ebac_tech_Talks\node_modules\caniuse-lite\data\features\css-placeholder-shown.js133882011229261217 0
 39C:\dev\ebac\ebac_tech_Talks\src\scripts133882010543372662 1
 55C:\dev\ebac\ebac_tech_Talks\node_modules\semver\classes133882011222216530 1
 54C:\dev\ebac\ebac_tech_Talks\node_modules\utility-types133882011221056567 1
@@ -90,7 +93,14 @@
 72C:\dev\ebac\ebac_tech_Talks\node_modules\caniuse-lite\data\regions\CD.js133882011224625974 0
 84C:\dev\ebac\ebac_tech_Talks\node_modules\update-browserslist-db\check-npm-version.js133882011219114830 0
 67C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\optimizer-svgo\src133882011224585432 1
-48C:\dev\ebac\ebac_tech_Talks\src\styles\main.scss133882031289150509 0
+65C:\dev\ebac\ebac_tech_Talks\node_modules\domutils\lib\legacy.d.ts133882011222719040 0
+49C:\dev\ebac\ebac_tech_Talks\src\styles\components133882037162525597 1
+90C:\dev\ebac\ebac_tech_Talks\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest6.c133882011223673035 0
+60C:\dev\ebac\ebac_tech_Talks\node_modules\@swc\helpers\_\_set133882011230642028 1
+84C:\dev\ebac\ebac_tech_Talks\node_modules\caniuse-lite\data\features\accelerometer.js133882011219892252 0
+121C:\dev\ebac\ebac_tech_Talks\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\node-gyp-build.js133882011219738585 0
+72C:\dev\ebac\ebac_tech_Talks\node_modules\caniuse-lite\data\regions\CF.js133882011224728851 0
+48C:\dev\ebac\ebac_tech_Talks\src\styles\main.scss133882037978733753 0
 62C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\utils\LICENSE133882011225653555 0
 80C:\dev\ebac\ebac_tech_Talks\node_modules\htmlnano\lib\modules\removeComments.mjs133882011224876469 0
 55C:\dev\ebac\ebac_tech_Talks\node_modules\dom-serializer133882011220888561 1
@@ -105,6 +115,8 @@
 88C:\dev\ebac\ebac_tech_Talks\node_modules\entities\lib\esm\generated\encode-html.d.ts.map133882011222297101 0
 77C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\core\test\fixtures\bundle.js133882011227497987 0
 49C:\dev\ebac\ebac_tech_Talks\src\styles\_hero.scss133882030985575311 0
+63C:\dev\ebac\ebac_tech_Talks\src\styles\components\_buttons.scss133882050393609058 0
+76C:\dev\ebac\ebac_tech_Talks\node_modules\caniuse-lite\data\regions\alt-af.js133882011221302510 0
 49C:\dev\ebac\ebac_tech_Talks\node_modules\entities133882011222754331 1
 74C:\dev\ebac\ebac_tech_Talks\node_modules\@swc\helpers\cjs\_await_value.cjs133882011220949097 0
 48C:\dev\ebac\ebac_tech_Talks\src\images\ui-ux.png133882010543362642 0
@@ -185,9 +197,6 @@
 76C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\runtime-js\lib\helpers\node133882011227222286 1
 76C:\dev\ebac\ebac_tech_Talks\node_modules\caniuse-lite\dist\unpacker\index.js133882011233014463 0
 45C:\dev\ebac\ebac_tech_Talks\node_modules\@img133882011246450508 1
-57C:\dev\ebac\ebac_tech_Talks\node_modules\json5\lib\cli.js133882011218862713 0
-70C:\dev\ebac\ebac_tech_Talks\node_modules\@swc\helpers\src\_type_of.mjs133882011233369460 0
-62C:\dev\ebac\ebac_tech_Talks\node_modules\entities\package.json133882011221769431 0
 46C:\dev\ebac\ebac_tech_Talks\node_modules\@lmdb133882011246437600 1
 85C:\dev\ebac\ebac_tech_Talks\node_modules\caniuse-lite\data\features\css-appearance.js133882011227283838 0
 64C:\dev\ebac\ebac_tech_Talks\node_modules\js-yaml\lib\type\map.js133882011221289029 0
@@ -282,10 +291,7 @@
 47C:\dev\ebac\ebac_tech_Talks\node_modules\dotenv133882011220824143 1
 81C:\dev\ebac\ebac_tech_Talks\node_modules\@swc\helpers\_\_async_generator_delegate133882011229050875 1
 74C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\packager-raw\package.json133882011225006393 0
-72C:\dev\ebac\ebac_tech_Talks\node_modules\utility-types\dist\index.js.map133882011220510693 0
-49C:\dev\ebac\ebac_tech_Talks\node_modules\has-flag133882011218964277 1
-92C:\dev\ebac\ebac_tech_Talks\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_load.1133882011221970532 0
-51C:\dev\ebac\ebac_tech_Talks\dist\fundo.a62a0635.png133882031297364362 0
+51C:\dev\ebac\ebac_tech_Talks\dist\fundo.a62a0635.png133882035039934899 0
 92C:\dev\ebac\ebac_tech_Talks\node_modules\posthtml\node_modules\entities\lib\encode-trie.d.ts133882011221865841 0
 73C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\transformer-posthtml\lib133882011224886550 1
 72C:\dev\ebac\ebac_tech_Talks\node_modules\caniuse-lite\data\regions\AG.js133882011220760459 0
@@ -301,7 +307,7 @@
 70C:\dev\ebac\ebac_tech_Talks\node_modules\@swc\helpers\scripts\utils.js133882011228813637 0
 49C:\dev\ebac\ebac_tech_Talks\node_modules\error-ex133882011218564555 1
 55C:\dev\ebac\ebac_tech_Talks\node_modules\lmdb\README.md133882011227977422 0
-52C:\dev\ebac\ebac_tech_Talks\dist\scripts\main.js.map133882031298454623 0
+52C:\dev\ebac\ebac_tech_Talks\dist\scripts\main.js.map133882035039827259 0
 64C:\dev\ebac\ebac_tech_Talks\node_modules\dotenv-expand\README.md133882011220054565 0
 73C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\transformer-posthtml\src133882011225016702 1
 72C:\dev\ebac\ebac_tech_Talks\node_modules\caniuse-lite\data\regions\MV.js133882011234395764 0
@@ -313,6 +319,15 @@
 55C:\dev\ebac\ebac_tech_Talks\node_modules\lmdb\native.js133882011227458517 0
 123C:\dev\ebac\ebac_tech_Talks\node_modules\posthtml\node_modules\dom-serializer\node_modules\entities\lib\decode_codepoint.js133882011216737084 0
 51C:\dev\ebac\ebac_tech_Talks\node_modules\fill-range133882011218564555 1
+70C:\dev\ebac\ebac_tech_Talks\node_modules\domutils\lib\stringify.js.map133882011222379685 0
+49C:\dev\ebac\ebac_tech_Talks\node_modules\get-port133882011219645615 1
+76C:\dev\ebac\ebac_tech_Talks\node_modules\lmdb\dependencies\lz4\lib\lz4file.c133882011222226770 0
+63C:\dev\ebac\ebac_tech_Talks\node_modules\parent-module\index.js133882011219000105 0
+92C:\dev\ebac\ebac_tech_Talks\node_modules\caniuse-lite\data\features\css-placeholder-shown.js133882011229261217 0
+48C:\dev\ebac\ebac_tech_Talks\node_modules\globals133882011220087066 1
+72C:\dev\ebac\ebac_tech_Talks\node_modules\utility-types\dist\index.js.map133882011220510693 0
+49C:\dev\ebac\ebac_tech_Talks\node_modules\has-flag133882011218964277 1
+92C:\dev\ebac\ebac_tech_Talks\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_load.1133882011221970532 0
 82C:\dev\ebac\ebac_tech_Talks\node_modules\caniuse-lite\data\features\pointerlock.js133882011234935397 0
 79C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\runtime-service-worker\LICENSE133882011223378731 0
 88C:\dev\ebac\ebac_tech_Talks\node_modules\posthtml\node_modules\posthtml-parser\readme.md133882011219993463 0
@@ -500,13 +515,6 @@
 71C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\core\lib\AssetGraph.js133882011226894802 0
 72C:\dev\ebac\ebac_tech_Talks\node_modules\caniuse-lite\data\regions\NA.js133882011234448485 0
 96C:\dev\ebac\ebac_tech_Talks\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\midl.c133882011223107726 0
-60C:\dev\ebac\ebac_tech_Talks\node_modules\sharp\lib\resize.js133882011222123220 0
-72C:\dev\ebac\ebac_tech_Talks\node_modules\lightningcss\node\index.js.flow133882011220553506 0
-57C:\dev\ebac\ebac_tech_Talks\node_modules\readdirp\LICENSE133882011214524926 0
-65C:\dev\ebac\ebac_tech_Talks\node_modules\weak-lru-cache\README.md133882011220500542 0
-72C:\dev\ebac\ebac_tech_Talks\node_modules\caniuse-lite\data\regions\DO.js133882011230324197 0
-72C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\workers\src\cpuCount.js133882011226055988 0
-65C:\dev\ebac\ebac_tech_Talks\node_modules\safe-buffer\package.json133882011217859764 0
 67C:\dev\ebac\ebac_tech_Talks\node_modules\htmlnano\docs\package.json133882011222571309 0
 61C:\dev\ebac\ebac_tech_Talks\node_modules\timsort\package.json133882011218650297 0
 89C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\runtime-js\src\helpers\get-worker-url.js133882011225852773 0
@@ -982,10 +990,6 @@
 63C:\dev\ebac\ebac_tech_Talks\node_modules\sharp\src\operations.h133882011221236824 0
 93C:\dev\ebac\ebac_tech_Talks\node_modules\caniuse-lite\data\features\keyboardevent-location.js133882011233583744 0
 56C:\dev\ebac\ebac_tech_Talks\node_modules\color\README.md133882011219634508 0
-88C:\dev\ebac\ebac_tech_Talks\node_modules\posthtml\node_modules\htmlparser2\lib\Parser.js133882011219780710 0
-84C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\transformer-js\lib\JSTransformer.js133882011225120322 0
-62C:\dev\ebac\ebac_tech_Talks\node_modules\js-yaml\lib\dumper.js133882011219794711 0
-91C:\dev\ebac\ebac_tech_Talks\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\intro.doc133882011225935590 0
 62C:\dev\ebac\ebac_tech_Talks\node_modules\sharp\src\pipeline.cc133882011220587289 0
 74C:\dev\ebac\ebac_tech_Talks\node_modules\node-addon-api\node_addon_api.gyp133882011214627308 0
 86C:\dev\ebac\ebac_tech_Talks\node_modules\lmdb\node_modules\node-addon-api\node_api.gyp133882011219012192 0
@@ -1238,7 +1242,7 @@
 97C:\dev\ebac\ebac_tech_Talks\node_modules\@swc\helpers\_\_is_native_reflect_construct\package.json133882011230271499 0
 102C:\dev\ebac\ebac_tech_Talks\node_modules\caniuse-lite\data\features\client-hints-dpr-width-viewport.js133882011225832708 0
 82C:\dev\ebac\ebac_tech_Talks\node_modules\caniuse-lite\data\features\eventsource.js133882011230792447 0
-64C:\dev\ebac\ebac_tech_Talks\dist\ebac_tech_Talks.59712999.js.map133882031297502817 0
+64C:\dev\ebac\ebac_tech_Talks\dist\ebac_tech_Talks.59712999.js.map133882035039781997 0
 111C:\dev\ebac\ebac_tech_Talks\node_modules\posthtml\node_modules\entities\lib\generated\decode-data-html.d.ts.map133882011221407009 0
 80C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\reporter-cli\lib\CLIReporter.js133882011225549317 0
 72C:\dev\ebac\ebac_tech_Talks\node_modules\caniuse-lite\data\regions\ZM.js133882011237145154 0
@@ -1343,6 +1347,10 @@
 94C:\dev\ebac\ebac_tech_Talks\node_modules\posthtml\node_modules\htmlparser2\lib\Parser.d.ts.map133882011220760459 0
 68C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\fs\lib\index.js.map133882011226678185 0
 59C:\dev\ebac\ebac_tech_Talks\node_modules\domutils\readme.md133882011222518024 0
+88C:\dev\ebac\ebac_tech_Talks\node_modules\posthtml\node_modules\htmlparser2\lib\Parser.js133882011219780710 0
+84C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\transformer-js\lib\JSTransformer.js133882011225120322 0
+62C:\dev\ebac\ebac_tech_Talks\node_modules\js-yaml\lib\dumper.js133882011219794711 0
+91C:\dev\ebac\ebac_tech_Talks\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\intro.doc133882011225935590 0
 93C:\dev\ebac\ebac_tech_Talks\node_modules\posthtml\node_modules\htmlparser2\lib\Tokenizer.d.ts133882011221312551 0
 63C:\dev\ebac\ebac_tech_Talks\node_modules\picomatch\package.json133882011219827542 0
 97C:\dev\ebac\ebac_tech_Talks\node_modules\posthtml\node_modules\htmlparser2\lib\Tokenizer.d.ts.map133882011220874521 0
@@ -1398,7 +1406,7 @@
 89C:\dev\ebac\ebac_tech_Talks\node_modules\posthtml\node_modules\entities\lib\maps\xml.json133882011221289029 0
 64C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\source-map\dist133882011226045983 1
 82C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\transformer-posthtml\package.json133882011225130320 0
-60C:\dev\ebac\ebac_tech_Talks\dist\ebac_tech_Talks.59712999.js133882031297461057 0
+60C:\dev\ebac\ebac_tech_Talks\dist\ebac_tech_Talks.59712999.js133882035039736892 0
 107C:\dev\ebac\ebac_tech_Talks\node_modules\posthtml\node_modules\entities\lib\generated\decode-data-html.d.ts133882011221789457 0
 87C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\core\src\requests\AssetGraphRequest.js133882011227192261 0
 72C:\dev\ebac\ebac_tech_Talks\node_modules\caniuse-lite\data\regions\MH.js133882011234220988 0
@@ -1748,12 +1756,6 @@
 56C:\dev\ebac\ebac_tech_Talks\node_modules\.bin\semver.cmd133882011243487604 0
 92C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\workers\test\integration\workerfarm\ping.js133882011226844102 0
 103C:\dev\ebac\ebac_tech_Talks\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages133882011220192311 1
-65C:\dev\ebac\ebac_tech_Talks\node_modules\domutils\lib\legacy.d.ts133882011222719040 0
-90C:\dev\ebac\ebac_tech_Talks\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest6.c133882011223673035 0
-60C:\dev\ebac\ebac_tech_Talks\node_modules\@swc\helpers\_\_set133882011230642028 1
-84C:\dev\ebac\ebac_tech_Talks\node_modules\caniuse-lite\data\features\accelerometer.js133882011219892252 0
-121C:\dev\ebac\ebac_tech_Talks\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\node-gyp-build.js133882011219738585 0
-72C:\dev\ebac\ebac_tech_Talks\node_modules\caniuse-lite\data\regions\CF.js133882011224728851 0
 74C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\workers\lib\WorkerFarm.js133882011227636490 0
 115C:\dev\ebac\ebac_tech_Talks\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\optional.js133882011219917154 0
 90C:\dev\ebac\ebac_tech_Talks\node_modules\msgpackr-extract\node_modules\detect-libc\LICENSE133882011219012192 0
@@ -2010,6 +2012,9 @@
 59C:\dev\ebac\ebac_tech_Talks\node_modules\json5\package.json133882011221083331 0
 69C:\dev\ebac\ebac_tech_Talks\node_modules\htmlparser2\lib\Tokenizer.js133882011220607360 0
 56C:\dev\ebac\ebac_tech_Talks\node_modules\json5\README.md133882011221236824 0
+57C:\dev\ebac\ebac_tech_Talks\node_modules\json5\lib\cli.js133882011218862713 0
+70C:\dev\ebac\ebac_tech_Talks\node_modules\@swc\helpers\src\_type_of.mjs133882011233369460 0
+62C:\dev\ebac\ebac_tech_Talks\node_modules\entities\package.json133882011221769431 0
 60C:\dev\ebac\ebac_tech_Talks\node_modules\color-name\index.js133882011214751962 0
 98C:\dev\ebac\ebac_tech_Talks\node_modules\@swc\helpers\cjs\_class_static_private_field_spec_get.cjs133882011222023924 0
 66C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\packager-wasm\src133882011224661142 1
@@ -2088,9 +2093,9 @@
 68C:\dev\ebac\ebac_tech_Talks\node_modules\js-yaml\dist\js-yaml.min.js133882011221083331 0
 68C:\dev\ebac\ebac_tech_Talks\node_modules\domutils\lib\stringify.d.ts133882011222921855 0
 65C:\dev\ebac\ebac_tech_Talks\node_modules\js-yaml\dist\js-yaml.mjs133882011222023924 0
-80C:\dev\ebac\ebac_tech_Talks\node_modules\caniuse-lite\data\features\css-fixed.js133882011228308158 0
 69C:\dev\ebac\ebac_tech_Talks\node_modules\color-convert\conversions.js133882011218224481 0
 63C:\dev\ebac\ebac_tech_Talks\node_modules\js-tokens\CHANGELOG.md133882011218975879 0
+80C:\dev\ebac\ebac_tech_Talks\node_modules\caniuse-lite\data\features\css-fixed.js133882011228308158 0
 58C:\dev\ebac\ebac_tech_Talks\node_modules\js-tokens\LICENSE133882011219458772 0
 75C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\node-resolver-core\LICENSE133882011225006393 0
 57C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\core\lib133882011230365388 1
@@ -2326,7 +2331,7 @@
 63C:\dev\ebac\ebac_tech_Talks\node_modules\commander\lib\error.js133882011220076985 0
 61C:\dev\ebac\ebac_tech_Talks\node_modules\fill-range\README.md133882011218832708 0
 54C:\dev\ebac\ebac_tech_Talks\node_modules\escalade\dist133882011219300420 1
-60C:\dev\ebac\ebac_tech_Talks\dist\ebac_tech_Talks.f75de5e1.js133882031298362060 0
+60C:\dev\ebac\ebac_tech_Talks\dist\ebac_tech_Talks.f75de5e1.js133882035040725119 0
 91C:\dev\ebac\ebac_tech_Talks\node_modules\caniuse-lite\data\features\css-at-counter-style.js133882011227304122 0
 57C:\dev\ebac\ebac_tech_Talks\node_modules\escalade\license133882011214545266 0
 74C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\graph\src\ContentGraph.js133882011225559317 0
@@ -2619,7 +2624,6 @@
 78C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\runtime-js\src\helpers\worker133882011227334269 1
 74C:\dev\ebac\ebac_tech_Talks\node_modules\cosmiconfig\dist\loaders.d.ts.map133882011222001678 0
 72C:\dev\ebac\ebac_tech_Talks\node_modules\cosmiconfig\dist\loaders.js.map133882011222033955 0
-98C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\core\test\fixtures\invalid-target-source-not-file133882011230802476 1
 66C:\dev\ebac\ebac_tech_Talks\node_modules\cosmiconfig\dist\merge.js133882011220814101 0
 91C:\dev\ebac\ebac_tech_Talks\node_modules\caniuse-lite\data\features\high-resolution-time.js133882011232656583 0
 68C:\dev\ebac\ebac_tech_Talks\node_modules\@swc\helpers\_\_await_value133882011229176945 1
@@ -2719,7 +2723,6 @@
 67C:\dev\ebac\ebac_tech_Talks\node_modules\caniuse-lite\data\features133882011237155488 1
 72C:\dev\ebac\ebac_tech_Talks\node_modules\caniuse-lite\data\regions\AI.js133882011221176124 0
 90C:\dev\ebac\ebac_tech_Talks\node_modules\caniuse-lite\data\features\css-media-scripting.js133882011228993946 0
-76C:\dev\ebac\ebac_tech_Talks\node_modules\caniuse-lite\data\regions\alt-af.js133882011221302510 0
 72C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\core\src\Environment.js133882011228579357 0
 100C:\dev\ebac\ebac_tech_Talks\node_modules\@swc\helpers\_\_class_private_field_loose_base\package.json133882011229543600 0
 76C:\dev\ebac\ebac_tech_Talks\node_modules\caniuse-lite\data\regions\alt-na.js133882011221593339 0
@@ -4228,7 +4231,6 @@
 66C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\core\package.json133882011230486008 0
 58C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\core\test133882011230312193 1
 79C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\core\test\EntryRequest.test.js133882011228527689 0
-78C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\core\test\Environment.test.js133882011228672867 0
 67C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\core\test\fixtures133882011231990689 1
 81C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\core\test\PackagerRunner.test.js133882011229251017 0
 79C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\core\test\PublicBundle.test.js133882011229600573 0
@@ -4240,6 +4242,7 @@
 77C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\core\test\fixtures\glob-like133882011226481127 1
 83C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\core\test\fixtures\invalid-engines133882011230736083 1
 97C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\core\test\fixtures\invalid-target-source-missing133882011230792447 1
+98C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\core\test\fixtures\invalid-target-source-not-file133882011230802476 1
 83C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\core\test\fixtures\invalid-targets133882011230812501 1
 93C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\core\test\fixtures\library-custom-scopehoist133882011230881016 1
 86C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\core\test\fixtures\library-scopehoist133882011230891916 1
@@ -4252,7 +4255,7 @@
 96C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\core\test\fixtures\targets-default-distdir-none133882011231962613 1
 95C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\core\test\fixtures\targets-default-distdir-one133882011231977535 1
 108C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\core\test\fixtures\targets-default-distdir-two\package.json133882011232000701 0
-48C:\dev\ebac\ebac_tech_Talks\dist\styles\main.css133882031297813901 0
+48C:\dev\ebac\ebac_tech_Talks\dist\styles\main.css133882050393883546 0
 88C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\core\test\fixtures\plugins\node_modules133882011228881355 1
 119C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-bad-engines133882011231925730 1
 127C:\dev\ebac\ebac_tech_Talks\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-no-engines\index.js133882011228901466 0
@@ -4452,10 +4455,10 @@
 52C:\dev\ebac\ebac_tech_Talks\node_modules\.bin\semver133882011243487604 0
 68C:\dev\ebac\ebac_tech_Talks\node_modules\.bin\update-browserslist-db133882011243487604 0
 53C:\dev\ebac\ebac_tech_Talks\dist\backend.3c327b9e.png133882012238931593 0
-55C:\dev\ebac\ebac_tech_Talks\dist\ebac_logo.a50a4e19.svg133882031297472794 0
-64C:\dev\ebac\ebac_tech_Talks\dist\ebac_tech_Talks.f75de5e1.js.map133882031298386488 0
-43C:\dev\ebac\ebac_tech_Talks\dist\index.html133882031297567889 0
-40C:\dev\ebac\ebac_tech_Talks\dist\scripts133882031298454623 1
-39C:\dev\ebac\ebac_tech_Talks\dist\styles133882031297837379 1
-52C:\dev\ebac\ebac_tech_Talks\dist\styles\main.css.map133882031297824163 0
-48C:\dev\ebac\ebac_tech_Talks\dist\scripts\main.js133882031298429437 0
+55C:\dev\ebac\ebac_tech_Talks\dist\ebac_logo.a50a4e19.svg133882035039954891 0
+64C:\dev\ebac\ebac_tech_Talks\dist\ebac_tech_Talks.f75de5e1.js.map133882035040735163 0
+43C:\dev\ebac\ebac_tech_Talks\dist\index.html133882038298432340 0
+40C:\dev\ebac\ebac_tech_Talks\dist\scripts133882035039827259 1
+39C:\dev\ebac\ebac_tech_Talks\dist\styles133882050393894723 1
+52C:\dev\ebac\ebac_tech_Talks\dist\styles\main.css.map133882050393894723 0
+48C:\dev\ebac\ebac_tech_Talks\dist\scripts\main.js133882035039792169 0
