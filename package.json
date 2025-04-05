@@ -2,6 +2,7 @@
   "name": "ebac-talks",
   "version": "1.0.0",
   "scripts": {
+    "build": "parcel build src/index.html",
     "dev": "parcel src/index.html src/scripts/main.js src/styles/main.scss",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,7 +12,8 @@
   "devDependencies": {
     "@parcel/transformer-sass": "^2.14.4",
     "parcel": "^2.14.4",
-    "sharp": "^0.33.5"
+    "sharp": "^0.33.5",
+    "svgo": "^3.3.2"
   },
   "dependencies": {
     "ansi-styles": "^4.3.0",
