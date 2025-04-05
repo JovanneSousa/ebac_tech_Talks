@@ -94,5 +94,8 @@
     "utility-types": "^3.11.0",
     "weak-lru-cache": "^1.2.2"
   },
-  "description": ""
+    "description": "",
+    "resolutions": {
+    "lightningcss": "^1.29.0"
+  }
 }
